@@ -1,0 +1,21 @@
+{"type":"Basic","front":"Who stole the cookie from the cookie jar?","back":"cookie monster"}
+{"type":"Basic","front":"who stole the cookie from the cookie jar?","back":"the cookie monster"}
+{"type":"Basic","front":"who stole the cookie?","back":"cmonster"}
+{"type":"Basic","front":"how old is pooh bear?","back":"150"}
+{"type":"Cloze-deleted","text":"Pooh bear loves honey","cloze":"Pooh bear"}
+{"type":"Cloze-deleted","text":"Belize gained independence in the year 1981","cloze":"1981"}
+{"type":"Cloze-deleted","text":"The Chicago Bulls won the championship in 1996","cloze":"Bulls"}
+{"type":"Cloze-deleted","text":"Independence Day is celebrated on the 4th of July","cloze":"July"}
+{"type":"Basic","front":"What's the meaning of Life?","back":"42"}
+{"type":"Cloze-deleted","text":"monkey joes","cloze":"joes"}
+{"type":"Cloze-deleted","text":"I like to watch super hero movies","cloze":"super hero"}
+{"type":"Cloze-deleted","text":"I like to watch movies","cloze":"movies"}
+{"type":"Cloze-deleted","text":"abc mouse is used a lot","cloze":"mouse"}
+{"type":"Cloze-deleted","text":"michael jordan in a basketball player","cloze":"basketball"}
+{"type":"Cloze-deleted","text":"ronaldo is a soccer player","cloze":"soccer"}
+{"type":"Cloze-deleted","text":"leonel messi is a great player","cloze":"great"}
+{"type":"Cloze-deleted","text":"Kobe played for the Lakers","cloze":"Lakers"}
+{"type":"Cloze-deleted","text":"Lebron is a crybaby","cloze":"crybaby"}
+{"type":"Cloze-deleted","text":"steph curry can shoot","cloze":"shoot"}
+{"type":"Basic","front":"Who stole the cookie from the cookie jar?","back":"cookie monster"}
+{"type":"Basic","front":"Do coders sleep?","back":"Haha no way!"}

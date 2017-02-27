@@ -1,0 +1,26 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "create and display flashcards",
+  "main": "flashcards_obj.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhabet01/FlashCard-Generator.git"
+  },
+  "keywords": [
+    "flashcard",
+    "node"
+  ],
+  "author": "Nahir Habet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhabet01/FlashCard-Generator/issues"
+  },
+  "homepage": "https://github.com/nhabet01/FlashCard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.0.4"
+  }
+}
